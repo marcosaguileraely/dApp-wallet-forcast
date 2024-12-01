@@ -1,4 +1,4 @@
-import { createContext, useContext, useState } from 'reactjs';
+import { createContext, useContext, useState } from 'react';
 
 const INITIAL_STATE = {
   walletState: false,
